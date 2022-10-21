@@ -317,14 +317,14 @@ let levelling = require('../lib/levelling')
  	let cute = `${pickRandom(['https://telegra.ph/file/2437b20967e29067b15b5.jpg', 'https://telegra.ph/file/2437b20967e29067b15b5.jpg', 'https://telegra.ph/file/72623481e83fd93ea90af.jpg', 'https://telegra.ph/file/39c7f17c117548019ca2d.jpg', 'https://telegra.ph/file/236426deb4284251b4c65.jpg', 'https://telegra.ph/file/cd5fe9ab03a67dbb76890.jpg', 'https://telegra.ph/file/4ce56e82578ed14ce2d30.jpg', 'https://telegra.ph/file/387a1535af055d84f2087.jpg', 'https://telegra.ph/file/3490776425f133e416880.jpg'])}` 
  	let ori = `Hi Kak, @${m.sender.split`@`[0]}
  
-Saya Adalah Cute Bot Salah Satu Bot Whatsapp Yang Siap Membantu Kamu Mempermudah Sesuatu Seperti Membuat Sticker Dan Lainnya, Kalo Kamu Mau Request Fitur Silahkan Ketik #request Pesan Atau Fitur Yang Kamu Inginkan!`
+Saya Adalah ZennX-Botz Salah Satu Bot Whatsapp Yang Siap Membantu Kamu Mempermudah Sesuatu Seperti Membuat Sticker Dan Lainnya, Kalo Kamu Mau Request Fitur Silahkan Ketik #request Pesan Atau Fitur Yang Kamu Inginkan!`
 conn.sendMessage(m.chat, {
     	react: {
     		text: emot,
     		key: m.key
     	}
     })	
-return conn.send2ButtonLoc(m.chat, cute, ori, `Note : If You Use Old Wa Or Mod And Button It Doesn't Look Di Rectly Type ${_p}simplemenu`, 'COMMAND', '.simplemenu', 'DONASI', '.donasi', m)
+return conn.send2ButtonLoc(m.chat, cute, ori, `Note : Jika Anda Menggunakan Wa Lama Atau Mod Dan Tombol Itu Tidak Terlihat Langsung Ketik ${_p}simplemenu`, 'COMMAND', '.simplemenu', 'DONASI', '.donasi', m)
     
     }
   
