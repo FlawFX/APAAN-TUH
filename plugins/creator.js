@@ -31,9 +31,9 @@ let handler = async(m, { conn }) => {
   return conn.sendButtonDoc(m.chat, `Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan dispam yah ^_^`, 'Itu Owner Ku Yah Kak Jangan Sungkem Untuk Chat ;3','Credits', '.tqto', m, { quoted: conn.p[id][0],
     contextInfo: { //forwardingScore: 99999, isForwarded: true,
         externalAdReply: { //showAdAttribution: true,
-        	sourceUrl: 'https://vt.tiktok.com/ZSRRmS8vh/',
-            title: 'Jangan Bully Zivfurr Dia Kang Kopas <3',
-            body: 'Follow Tiktok Pacar Saya Bang',
+        	sourceUrl: 'https://www.tiktok.com/@yogzkyzx?_t=8Wgb1zCRHFK&_r=1',
+            title: 'Jangan Bully Flawz Dia Kang Kopas <3',
+            body: 'Follow Tiktok Saya Banh:)',
           thumbnail: await (await fetch(pp)).buffer()
         }
      }
