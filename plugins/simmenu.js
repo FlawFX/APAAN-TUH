@@ -97,8 +97,8 @@ const fkgif = {
                 },
 	 message: { 
 		"extendedTextMessage": {
-                 "text":`CUTE IQ MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
-                 "title": `CUTE IQ MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
+                 "text":`🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
+                 "title": `🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
                  'jpegThumbnail': await (await fetch('https://telegra.ph/file/6f11ac2de8d57a1c831c4.jpg')).buffer()
                         }
 	                  } 
@@ -108,10 +108,10 @@ const fkgif = {
 
 ●────━───༺༻───━────●
                 *《 BOT INFO 》*
-⚘ *Bot Name: CUTE IQ-MD IQ MD*
-⚘ *Creator: Stah Ziv San*
+⚘ *Bot Name: ZennX-Botz*
+⚘ *Creator: Flawz*
 ⚘ *Contact Owner Bot*
-*http://wa.me/16199961931*
+*http://wa.me/6289510598381*
 ⚘ *Tanggal: ${date}*  
 ⚘ *Jam: ${time} WIB*
 ⚘ *Status: 「 ${mode} 」*
@@ -150,21 +150,21 @@ _*${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik*_
 let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner
 
  *Official Bot By @${'0'.split('@')[0]}* 
- *Powered By @${'16199961931'.split('@')[0]}*`
+ *Powered By @${'6289510598381'.split('@')[0]}*`
        let judul = `${ucapanl()}`.trim() 
        const sections = [
                               {
                                 "rows": [{
                                          "title": "📊 › Status ",
-                                         "description": "Status カ CUTE IQ-MD",
+                                         "description": "Status カ ZennX-Botz",
                                          "rowId": ".botstat"
                                     }, {
                                          "title": "⚡› Speed ",
-                                         "description": "Menampilkan Kecepatan Respon カ CUTE IQ-MD",
+                                         "description": "Menampilkan Kecepatan Respon カ ZennX-Botz",
                                          "rowId": ".ping"
                                     }, {
                                          "title": "🗒️› Info ",
-                                         "description": "Menampilkan Info カ CUTE IQ-MD",
+                                         "description": "Menampilkan Info カ ZennX-Botz",
                                          "rowId": ".info"
                                     }, {
                                          "title": "🎐 › Developer Bot ",
@@ -318,13 +318,13 @@ let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan sil
                                 }, {
                                 "rows": [{                                	
                                 "title": "📝 ∫  Catatan Perubahan ",
-                                "description": "Last Update Terakhir Di CUTE IQ-MD",
+                                "description": "Last Update Terakhir Di ZennX-Botz",
                                 "rowId": ".notes"                  
                 }],                
                                 "title": "▮Last Update 」"
                                 }, {
                                 "rows": [{                                	
-                  "title": "「 🗨️ 」› Ziv Chat ",
+                  "title": "「 🗨️ 」› ZennX Chat ",
                   "description": "Mengobrol Dengan Orang Lain",
                   "rowId": ". start"
                 }],
