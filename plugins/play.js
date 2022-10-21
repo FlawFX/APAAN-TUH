@@ -57,12 +57,12 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 `.trim(), wm2, `🎙️ Audio`, `.yta ${vid.url}`, `🎥 Video`, `.yt ${vid.url}`, '🔎 YouTube Search', `.yts ${title}`, ftrol, {
     contextInfo: { forwardingScore: 99999, isForwarded: true,
         externalAdReply: {
-            title: ' ꕥ─────•「 Cute ▶︎ Botz 」•─────ꕥ', 
+            title: ' ꕥ─────•「 ZennX ▶︎ Botz 」•─────ꕥ', 
             body: 'Apa benar ini yang anda cari?',
             description: 'Apa benar ini yang anda cari?',
             mediaType: 2,
           thumbnail: await (await fetch('https://telegra.ph/file/9f8c29c09f70ae430c1f4.jpg')).buffer(),
-         mediaUrl: `https://youtube.com/watch?v=uIedYGN3NQQ`
+         mediaUrl: `https://youtu.be/OC9OM4N1GzA`
         }
      }
     })
