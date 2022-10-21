@@ -29,7 +29,7 @@ let txt = `Hai Kak ${tag}, Videonya Udah Jadi Nih, Kalau Mau Versi Ekstensi Lain
     await conn.sendButtonVid(m.chat, video, txt, 'Mau Ganti Ke Versi Music Klik Dibawah', `Audio`, `.tiktokaudio ${args[0]}`, 0, { quoted: ftroli,
     contextInfo: { forwardingScore: 99999, isForwarded: true,
         externalAdReply: {
-        	sourceUrl: 'https://vt.tiktok.com/ZSRRmS8vh/',
+        	sourceUrl: 'https://www.tiktok.com/@yogzkyzx?_t=8Wgb1zCRHFK&_r=1',
             title: 'Tiktok Downloader 🎥',
             body: wm2,
           thumbnail: thumb
